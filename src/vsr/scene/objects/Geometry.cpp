@@ -39,6 +39,7 @@ const Token quad = "quad";
 const Token sdf = "sdf";
 const Token sphere = "sphere";
 const Token triangle = "triangle";
+const Token gaussianSplat = "gaussianSplat";
 
 } // namespace tokens::geometry
 

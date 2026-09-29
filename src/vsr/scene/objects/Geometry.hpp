@@ -40,6 +40,7 @@ extern const Token quad;
 extern const Token sdf;
 extern const Token sphere;
 extern const Token triangle;
+extern const Token gaussianSplat;
 } // namespace tokens::geometry
 
 } // namespace vsr::scene
